@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/vochilong/vochilong/blob/main/percent.jpg?raw=true)
+[//]: # (![MasterHead]&#40;https://github.com/vochilong/vochilong/blob/main/percent.jpg?raw=true&#41;)
 
 <h1 align="center">Hi 👋, I'm Vo Chi Long (OHION)</h1>
 <h3 align="center">A passionate FullStack Developer from Vietnam</h3>
