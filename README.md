@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vo Chi Long (ohion)</h1>
 <h3 align="center">I am from Vietnam</h3>
+<img width="140" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 I’m currently working on **Hybrid-technologies**
 
