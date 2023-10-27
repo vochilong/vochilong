@@ -1,6 +1,6 @@
 [//]: # (![MasterHead]&#40;https://github.com/vochilong/vochilong/blob/main/percent.jpg?raw=true&#41;)
 
-<h1 align="center">Hi 👋, I'm Vo Chi Long (OHION)</h1>
+<h1 align="center">Hi 👋, I'm Vo Chi Long (HION)</h1>
 <h3 align="center">A passionate FullStack Developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/vochilong/vochilong/blob/main/giphy.gif?raw=true">
 
@@ -10,8 +10,6 @@
 - 🌱 I’m currently learning **Everything**
 
 - 💬 Ask me about **Web develop**
-
-- 📫 How to reach me **vochilong.work@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
